@@ -21,7 +21,6 @@
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=333)
-![Vite](https://github.com/github/explore/blob/main/topics/vite/vite.png)
 
 **GitHub Stats:**
 
